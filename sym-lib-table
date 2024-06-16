@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Z7-Lite")(type "KiCad")(uri "${KIPRJMOD}/librairie/Z7-Lite.kicad_sym")(options "")(descr ""))
+)
