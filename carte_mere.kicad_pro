@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "carte_mère.kicad_pro",
+    "filename": "carte_mere.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -385,6 +385,26 @@
     [
       "20c56496-71e7-4272-aa93-980e4fc2cc62",
       "Racine"
+    ],
+    [
+      "f7a923e9-e0df-4e04-aa16-7c7a7e9e723e",
+      "DSO"
+    ],
+    [
+      "3da1a08c-51a9-4146-adbc-f0bffb2980b2",
+      "Servo"
+    ],
+    [
+      "6bdddb73-c09b-445f-8632-feb7ee02138e",
+      "QEI"
+    ],
+    [
+      "0a1a8323-5782-455a-ae12-655cbdb46591",
+      "CAN"
+    ],
+    [
+      "7bafa03f-ce9f-4dc8-b949-eb32cd12b5a4",
+      "AX12"
     ]
   ],
   "text_variables": {}
