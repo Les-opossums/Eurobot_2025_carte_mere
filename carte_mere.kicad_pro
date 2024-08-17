@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.36,
+          "width": 0.458
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -91,7 +91,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -494,13 +494,13 @@
           "group_by": false,
           "label": "Reference",
           "name": "Reference",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Value",
           "name": "Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -612,6 +612,10 @@
     [
       "b97c94ad-e95a-45a9-9458-f7719da26fb1",
       "power"
+    ],
+    [
+      "4b37bf76-6f19-4418-8a0f-105f65f43de6",
+      "lidar"
     ]
   ],
   "text_variables": {}
