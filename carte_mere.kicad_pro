@@ -48,12 +48,17 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
-        "silk_edge_clearance|232400000|101814700|a7a19ff3-117e-4c68-9aa1-080532c63fe9|c4703cd9-bcb4-408d-be0f-b259ae6fd7ed",
         "silk_over_copper|164142880|95916784|4985f2ef-3c26-40ae-8b07-8e8b8eefc7f5|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|215028884|118591466|1eb34629-0e65-4043-80a6-470684a29037|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|220763995|118567698|76df75f0-4cf9-4bbf-85f4-e0dc16f02818|00000000-0000-0000-0000-000000000000"
@@ -175,7 +180,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -202,7 +209,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -473,7 +485,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "carte_mere.step",
       "svg": "",
       "vrml": ""
     },
