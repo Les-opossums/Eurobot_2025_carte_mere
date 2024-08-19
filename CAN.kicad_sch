@@ -812,7 +812,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 48.26) (xy 80.01 50.8)
+			(xy 81.28 48.26) (xy 81.28 50.8)
 		)
 		(stroke
 			(width 0)
@@ -852,7 +852,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 43.18) (xy 73.66 43.18)
+			(xy 81.28 43.18) (xy 73.66 43.18)
 		)
 		(stroke
 			(width 0)
@@ -892,7 +892,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 50.8) (xy 73.66 50.8)
+			(xy 81.28 50.8) (xy 73.66 50.8)
 		)
 		(stroke
 			(width 0)
@@ -932,7 +932,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 45.72) (xy 80.01 43.18)
+			(xy 81.28 45.72) (xy 81.28 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1415,7 +1415,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 85.09 48.26 180)
+		(at 86.36 48.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1423,7 +1423,7 @@
 		(dnp no)
 		(uuid "a5b9f3d0-31b7-4758-81c8-fb9b41897f5c")
 		(property "Reference" "J1"
-			(at 85.852 41.91 0)
+			(at 87.122 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1432,7 +1432,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 74.168 54.864 0)
+			(at 72.39 55.118 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1441,7 +1441,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
-			(at 85.09 48.26 0)
+			(at 86.36 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1450,7 +1450,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 48.26 0)
+			(at 86.36 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1459,7 +1459,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 85.09 48.26 0)
+			(at 86.36 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1568,7 +1568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "120R"
 			(at 76.2 48.2599 0)
 			(effects
 				(font
