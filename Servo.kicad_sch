@@ -5178,7 +5178,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 273.05 100.3299 0)
 			(effects
 				(font
@@ -5450,7 +5450,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 173.99 142.2399 0)
 			(effects
 				(font
@@ -6922,7 +6922,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 368.3 95.2499 0)
 			(effects
 				(font
@@ -7124,7 +7124,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 176.53 43.1799 0)
 			(effects
 				(font
@@ -7403,7 +7403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 271.78 156.2099 0)
 			(effects
 				(font
@@ -8100,7 +8100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 87.63 195.5799 0)
 			(effects
 				(font
@@ -8373,7 +8373,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 83.82 45.7199 0)
 			(effects
 				(font
@@ -8579,7 +8579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 278.13 210.8199 0)
 			(effects
 				(font
@@ -8921,7 +8921,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 379.73 204.4699 0)
 			(effects
 				(font
@@ -9612,7 +9612,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 356.87 41.9099 0)
 			(effects
 				(font
@@ -9828,7 +9828,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 173.99 93.9799 0)
 			(effects
 				(font
@@ -10174,7 +10174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 368.3 151.1299 0)
 			(effects
 				(font
@@ -12526,7 +12526,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 86.36 93.9799 0)
 			(effects
 				(font
@@ -12812,7 +12812,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 86.36 143.5099 0)
 			(effects
 				(font
@@ -12948,7 +12948,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 269.24 41.9099 0)
 			(effects
 				(font
@@ -13712,7 +13712,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 25V"
 			(at 176.53 196.8499 0)
 			(effects
 				(font
