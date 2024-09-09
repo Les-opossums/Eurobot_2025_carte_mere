@@ -1588,7 +1588,7 @@
 			)
 		)
 		(property "Value" "10µF 50V"
-			(at 58.42 93.98 0)
+			(at 49.784 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1596,7 +1596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 55.5752 96.52 0)
 			(effects
 				(font
@@ -2333,7 +2333,7 @@
 		(dnp no)
 		(uuid "714e4cba-9a2d-4e4d-9628-b36beb5dfcef")
 		(property "Reference" "C3"
-			(at 41.91 30.48 0)
+			(at 38.862 30.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2342,7 +2342,7 @@
 			)
 		)
 		(property "Value" "10µF 50V"
-			(at 41.91 33.02 0)
+			(at 35.56 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2350,7 +2350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 39.0652 35.56 0)
 			(effects
 				(font
@@ -2620,7 +2620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 103.8352 91.44 0)
 			(effects
 				(font
@@ -2886,7 +2886,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 66.04 93.98 0)
+			(at 62.738 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2894,7 +2894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 63.1952 96.52 0)
 			(effects
 				(font
@@ -3784,7 +3784,7 @@
 			)
 		)
 		(property "Value" "10µF 50V"
-			(at 49.53 93.98 0)
+			(at 35.306 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3792,7 +3792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 46.6852 96.52 0)
 			(effects
 				(font
@@ -3913,7 +3913,7 @@
 		(dnp no)
 		(uuid "c67da835-78f1-4341-9268-2da7049d7d9b")
 		(property "Reference" "C4"
-			(at 53.34 30.48 0)
+			(at 50.546 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3922,7 +3922,7 @@
 			)
 		)
 		(property "Value" "10µF 50V"
-			(at 53.34 33.02 0)
+			(at 46.228 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3930,7 +3930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 50.4952 35.56 0)
 			(effects
 				(font
@@ -4396,7 +4396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 119.0752 104.14 0)
 			(effects
 				(font
