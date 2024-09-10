@@ -3326,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 39.37) (xy 101.6 39.37)
+			(xy 107.95 39.37) (xy 101.6 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4336,6 +4336,28 @@
 		)
 		(uuid "fdadcc77-eca8-4574-ad19-94e2c5063f04")
 	)
+	(global_label "TX-lidar_2"
+		(shape input)
+		(at 80.01 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "07572440-c50b-4a29-9bd7-8c7c2eb5df05")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 66.744 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "spare1_1"
 		(shape input)
 		(at 38.1 80.01 180)
@@ -4798,6 +4820,28 @@
 			)
 		)
 	)
+	(global_label "SERVO1"
+		(shape input)
+		(at 107.95 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "356dfd33-6307-4145-955c-57c11e138cae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.1923 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "spare3_7"
 		(shape input)
 		(at 58.42 46.99 0)
@@ -5150,28 +5194,6 @@
 			)
 		)
 	)
-	(global_label "SERVO1"
-		(shape input)
-		(at 80.01 39.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4f5657ab-abe0-4fe1-b8e0-97b26be2a55b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.7677 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "spare2_7"
 		(shape input)
 		(at 38.1 62.23 180)
@@ -5256,28 +5278,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SERVO9"
-		(shape input)
-		(at 106.68 39.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "53eca0b8-7298-419b-9881-0479195b318d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.9223 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5744,6 +5744,28 @@
 			)
 		)
 	)
+	(global_label "SERVO9"
+		(shape input)
+		(at 58.42 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "840481e1-e851-4eb8-af13-669481c71bfd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 68.6623 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "spare1_5"
 		(shape input)
 		(at 233.68 36.83 180)
@@ -6074,7 +6096,7 @@
 			)
 		)
 	)
-	(global_label "RX-lidar_2"
+	(global_label "SERVO10"
 		(shape input)
 		(at 38.1 87.63 180)
 		(fields_autoplaced yes)
@@ -6084,9 +6106,9 @@
 			)
 			(justify right)
 		)
-		(uuid "b36c06f3-ac7a-444d-ba78-c1f94deb43aa")
+		(uuid "b3071179-4e7f-4174-8735-a7e8902aa190")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.5316 87.63 0)
+			(at 26.6482 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6250,6 +6272,28 @@
 			)
 		)
 	)
+	(global_label "RX-lidar_2"
+		(shape input)
+		(at 106.68 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4bc6848-550f-493d-b427-db6541f63596")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.2484 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "spare1_3"
 		(shape input)
 		(at 38.1 77.47 180)
@@ -6404,28 +6448,6 @@
 			)
 		)
 	)
-	(global_label "TX-lidar_2"
-		(shape input)
-		(at 58.42 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cf461b90-8ed8-44ec-96c9-e58db2331cc8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.686 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "spare1_8"
 		(shape input)
 		(at 58.42 72.39 0)
@@ -6505,28 +6527,6 @@
 		(uuid "d6a8c8d3-8359-4509-9cde-28f46d7187f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 26.5273 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SERVO2"
-		(shape input)
-		(at 80.01 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d7a5aae7-d814-48ba-880b-3795e660bc6c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.7677 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6637,6 +6637,28 @@
 		(uuid "e1e7e6a0-8e6e-4c1d-a615-4b01bf8a521f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 69.7677 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SERVO2"
+		(shape input)
+		(at 80.01 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e7e446a4-a419-4b46-ac0f-a826a86c0b28")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.7677 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6835,28 +6857,6 @@
 		(uuid "f4c10c72-e881-4dc4-b4a1-df955ec71781")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 132.2228 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SERVO10"
-		(shape input)
-		(at 106.68 41.91 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f6c47822-c42f-4750-a4df-7b8cd9413f5c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.1318 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
