@@ -1817,7 +1817,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 40.64) (xy 80.01 40.64)
+			(xy 76.2 40.64) (xy 95.25 40.64)
 		)
 		(stroke
 			(width 0)
@@ -8356,7 +8356,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 80.01 44.45 0)
+		(at 95.25 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8365,7 +8365,7 @@
 		(fields_autoplaced yes)
 		(uuid "54b931a7-0d31-4a00-abf1-4e3bdbb5818f")
 		(property "Reference" "C30"
-			(at 83.82 43.1799 0)
+			(at 99.06 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8374,7 +8374,7 @@
 			)
 		)
 		(property "Value" "1uF 25V"
-			(at 83.82 45.7199 0)
+			(at 99.06 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8383,7 +8383,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 80.9752 48.26 0)
+			(at 96.2152 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8392,7 +8392,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 44.45 0)
+			(at 95.25 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8401,7 +8401,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 80.01 44.45 0)
+			(at 95.25 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15079,7 +15079,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 48.26 0)
+		(at 95.25 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15088,7 +15088,7 @@
 		(fields_autoplaced yes)
 		(uuid "fbe1c66d-32d3-474a-8d19-0b988464cfc0")
 		(property "Reference" "#PWR0110"
-			(at 80.01 54.61 0)
+			(at 95.25 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15097,7 +15097,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 53.34 0)
+			(at 95.25 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15105,7 +15105,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 48.26 0)
+			(at 95.25 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15114,7 +15114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 48.26 0)
+			(at 95.25 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15123,7 +15123,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 48.26 0)
+			(at 95.25 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
