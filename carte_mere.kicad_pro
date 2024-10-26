@@ -428,7 +428,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -601,10 +601,6 @@
     [
       "20c56496-71e7-4272-aa93-980e4fc2cc62",
       "Racine"
-    ],
-    [
-      "f7a923e9-e0df-4e04-aa16-7c7a7e9e723e",
-      "DSO"
     ],
     [
       "3da1a08c-51a9-4146-adbc-f0bffb2980b2",
