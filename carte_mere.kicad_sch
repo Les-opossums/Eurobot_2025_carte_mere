@@ -2729,16 +2729,16 @@
 		)
 	)
 	(junction
-		(at 152.4 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0be5d01c-cb8f-4c4c-908f-61604712e33d")
-	)
-	(junction
 		(at 153.67 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11a0054f-dfe5-4e43-abc4-897a3a979bb4")
+	)
+	(junction
+		(at 152.4 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f4c4726-2ba8-46f0-868b-e3ee10388eb7")
 	)
 	(junction
 		(at 120.65 74.93)
@@ -2863,6 +2863,16 @@
 			(type default)
 		)
 		(uuid "074679f6-dfd8-4ef0-8535-bc1fd38f314f")
+	)
+	(wire
+		(pts
+			(xy 152.4 207.01) (xy 162.56 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "098cc705-d01f-4c46-b1ae-d120e3ad1fc5")
 	)
 	(wire
 		(pts
@@ -3296,16 +3306,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 207.01) (xy 160.02 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ee56fc3-d5d0-4aa2-8de9-09fda2dfba60")
-	)
-	(wire
-		(pts
 			(xy 233.68 31.75) (xy 236.22 31.75)
 		)
 		(stroke
@@ -3333,16 +3333,6 @@
 			(type default)
 		)
 		(uuid "540c1218-a066-4f96-98a0-3410619a9178")
-	)
-	(wire
-		(pts
-			(xy 118.11 134.62) (xy 119.38 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54d2343d-5ad7-4d91-bb92-4bc2fb9b394f")
 	)
 	(wire
 		(pts
@@ -3436,7 +3426,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 134.62) (xy 110.49 134.62)
+			(xy 107.95 134.62) (xy 119.38 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4158,7 +4148,7 @@
 	)
 	(rectangle
 		(start 133.35 187.96)
-		(end 176.53 226.06)
+		(end 177.8 226.06)
 		(stroke
 			(width 0)
 			(type default)
@@ -4171,7 +4161,7 @@
 	(text_box "12v - connecté à l'arrêt d'urgence"
 		(exclude_from_sim no)
 		(at 133.35 154.94 0)
-		(size 54.61 31.75)
+		(size 44.45 31.75)
 		(stroke
 			(width 0)
 			(type default)
@@ -7528,74 +7518,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 114.3 134.62 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "13e48d53-937d-41f5-b93f-6e0d5f6aeea6")
-		(property "Reference" "R152"
-			(at 114.3 128.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 114.3 130.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 114.3 136.398 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 114.3 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89fcb1a5-e674-4dc6-9775-51c3dac9eecd")
-		)
-		(pin "2"
-			(uuid "1c1340b5-247a-472b-b2ae-41df8be7b0e2")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "R152")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 240.03 39.37 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9185,74 +9107,6 @@
 			(project "carte_mere"
 				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
 					(reference "R138")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 156.21 207.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67b0ca14-6878-4c08-b5b9-58d84e4a5529")
-		(property "Reference" "R125"
-			(at 156.21 200.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 156.21 203.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 156.21 208.788 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 156.21 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3479dc8a-7c73-4968-8fa2-c7fdb4cc452f")
-		)
-		(pin "2"
-			(uuid "7c0ee483-7a14-4d66-a033-70770f8d4c64")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "R125")
 					(unit 1)
 				)
 			)
