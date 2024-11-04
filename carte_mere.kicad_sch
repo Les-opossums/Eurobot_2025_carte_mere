@@ -1565,142 +1565,6 @@
 				)
 			)
 		)
-		(symbol "Device:C"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Unpolarized capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_0_1"
-				(polyline
-					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C_Polarized"
 			(pin_numbers hide)
 			(pin_names
@@ -7515,28 +7379,6 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 278.13 142.24 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2ca9daa8-5b1d-4e65-b4ac-c77968068c09")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.13 135.1424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "3.3V"
-		(shape input)
 		(at 25.4 74.93 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8785,28 +8627,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "3.3V"
-		(shape input)
-		(at 279.4 199.39 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a6dcd054-dd64-4988-8bf4-270fb15c5782")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.4 192.2924 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -10126,7 +9946,7 @@
 		(dnp no)
 		(uuid "0bb82eb9-7213-4491-a3e3-559b4fc64044")
 		(property "Reference" "R105"
-			(at 223.52 171.196 0)
+			(at 226.822 166.624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10135,7 +9955,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 226.06 168.91 0)
+			(at 233.934 165.354 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10542,7 +10362,7 @@
 		(fields_autoplaced yes)
 		(uuid "13edca49-feb4-4d3c-8d50-8f2ae07e69c8")
 		(property "Reference" "C47"
-			(at 266.7 199.771 0)
+			(at 266.7 199.7709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10550,8 +10370,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330µF 25V"
-			(at 266.7 202.311 0)
+		(property "Value" "100µF 25V"
+			(at 266.7 202.3109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10820,7 +10640,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 156.21 129.5399 0)
 			(effects
 				(font
@@ -10960,7 +10780,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 154.94 201.9299 0)
 			(effects
 				(font
@@ -11006,75 +10826,6 @@
 			(project "carte_mere"
 				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
 					(reference "R151")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 278.13 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "20c34a88-b6a3-4bd6-bd62-12e0db33d774")
-		(property "Reference" "C48"
-			(at 281.94 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47µf 6.3V"
-			(at 281.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 279.0952 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 278.13 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 278.13 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "26590610-cdf1-44fd-b9c0-230ad5112b25")
-		)
-		(pin "2"
-			(uuid "2d31749b-87be-4f1a-b10c-58faeba7129e")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -11749,7 +11500,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "3.3k"
 			(at 93.98 167.6399 0)
 			(effects
 				(font
@@ -12595,7 +12346,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "3.3k"
 			(at 102.87 167.6399 0)
 			(effects
 				(font
@@ -14014,7 +13765,7 @@
 		(dnp no)
 		(uuid "7ccbcbef-6b40-42cf-9283-9d06a2f8ec7d")
 		(property "Reference" "R102"
-			(at 223.774 168.148 0)
+			(at 227.076 163.576 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14023,7 +13774,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 226.06 166.37 0)
+			(at 234.188 163.068 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14386,7 +14137,7 @@
 		(dnp no)
 		(uuid "7fbb133b-ffb9-4d7e-b240-187dd675a1ac")
 		(property "Reference" "R41"
-			(at 223.52 163.83 0)
+			(at 226.314 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14395,7 +14146,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 226.06 163.83 0)
+			(at 234.188 160.274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15313,72 +15064,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 279.4 207.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ab12fd5f-8e4d-4731-9675-daba74e07172")
-		(property "Reference" "#PWR0138"
-			(at 279.4 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 279.4 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 279.4 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 279.4 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 279.4 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "373f678d-ac1f-417b-b515-643b4c687d84")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "#PWR0138")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 260.35 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15439,72 +15124,6 @@
 			(project "carte_mere"
 				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 278.13 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae17dca6-67ad-49d5-84c2-3ef0cb7dcad2")
-		(property "Reference" "#PWR0136"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 278.13 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 278.13 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 278.13 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 278.13 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "71b135f8-42d9-40b6-ab5f-cb45d3ff7351")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -15799,7 +15418,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 110.49 129.5399 0)
 			(effects
 				(font
@@ -15912,75 +15531,6 @@
 			(project "carte_mere"
 				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
 					(reference "R136")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 279.4 203.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d68f2e66-15f4-480a-a0d9-1d12b0783620")
-		(property "Reference" "C49"
-			(at 283.21 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47µf 6.3V"
-			(at 283.21 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 280.3652 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 279.4 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 279.4 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "01f14fb8-320b-4b06-97b7-568f2a3a41e0")
-		)
-		(pin "2"
-			(uuid "19eded58-6c49-4f26-9f08-f630fd7b7005")
-		)
-		(instances
-			(project "carte_mere"
-				(path "/20c56496-71e7-4272-aa93-980e4fc2cc62"
-					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -16468,7 +16018,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0e297f2-f77a-49fc-9db5-cb99bd6cfdba")
 		(property "Reference" "C46"
-			(at 265.43 142.621 0)
+			(at 265.43 142.6209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16476,8 +16026,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330µF 25V"
-			(at 265.43 145.161 0)
+		(property "Value" "100µF 25V"
+			(at 265.43 145.1609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
