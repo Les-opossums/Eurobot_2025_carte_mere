@@ -1297,7 +1297,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 30.48) (xy 129.54 30.48)
+			(xy 118.11 30.48) (xy 129.54 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1327,7 +1327,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 30.48) (xy 100.33 30.48)
+			(xy 110.49 30.48) (xy 100.33 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1834,7 +1834,7 @@
 		(at 203.2 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4096,7 +4096,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c3f9a2c4-3d63-4acd-9113-a45c58a7cf96")
 		(property "Reference" "C6"
 			(at 104.14 25.3999 0)
@@ -4108,7 +4107,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 104.14 27.9399 0)
+			(at 98.298 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4433,7 +4432,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 113.03 30.48 90)
+		(at 114.3 30.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4441,7 +4440,7 @@
 		(dnp no)
 		(uuid "cb568089-70cd-4d5c-8f2a-7fca1094a405")
 		(property "Reference" "L1"
-			(at 113.03 26.67 90)
+			(at 114.3 25.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4449,7 +4448,7 @@
 			)
 		)
 		(property "Value" "PSPMAQ0605H-150M-ANP"
-			(at 108.458 32.766 90)
+			(at 109.728 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4456,7 @@
 			)
 		)
 		(property "Footprint" "7Robot_lib:Prod_Tech_7.1x6.6mm"
-			(at 113.03 30.48 0)
+			(at 114.3 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4465,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 30.48 0)
+			(at 114.3 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4474,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 30.48 0)
+			(at 114.3 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4701,7 +4700,7 @@
 		(at 207.01 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

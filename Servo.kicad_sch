@@ -5559,6 +5559,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 340.36 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4644a7bb-b899-48f9-8dc8-1fa041c708ff")
 		)
@@ -5582,7 +5591,7 @@
 		(at 86.36 152.4 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5766,6 +5775,15 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 245.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8545 "
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -6004,7 +6022,7 @@
 		(at 273.05 165.1 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6077,7 +6095,7 @@
 		(at 381 213.36 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6485,7 +6503,7 @@
 		(at 175.26 151.13 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6743,6 +6761,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545"
+			(at 57.15 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9a5d68f0-a043-48b0-912a-ea66bfc4b4f1")
 		)
@@ -6877,6 +6904,15 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 146.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8545 "
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -7180,7 +7216,7 @@
 		(at 369.57 104.14 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7714,6 +7750,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 351.79 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13265a3b-81fe-4d46-8fe8-d1a576051987")
 		)
@@ -7737,7 +7782,7 @@
 		(at 176.53 205.74 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7876,7 +7921,7 @@
 		(at 369.57 160.02 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9443,6 +9488,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545"
+			(at 57.15 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "694c41fb-27ca-4adf-a027-5e88845db5a9")
 		)
@@ -9721,6 +9775,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 147.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb153a62-d522-4f16-87b4-d40ab61d32c0")
 		)
@@ -9884,7 +9947,7 @@
 		(at 86.36 102.87 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10362,7 +10425,7 @@
 		(at 270.51 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10488,6 +10551,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 146.05 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7db9d9e-cd47-4595-b425-32e8e05c0fcd")
 		)
@@ -10556,6 +10628,15 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 241.3 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8545 "
 			(at 241.3 54.61 0)
 			(effects
 				(font
@@ -10777,6 +10858,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 243.84 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96569c15-75c8-4953-aeb3-e180016f8cf0")
 		)
@@ -10866,7 +10956,7 @@
 		(at 274.32 109.22 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11190,6 +11280,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545"
+			(at 59.69 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f57914d-df9a-4206-9142-9c73343573af")
 		)
@@ -11279,7 +11378,7 @@
 		(at 85.09 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11559,7 +11658,7 @@
 		(at 176.53 52.07 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12033,7 +12132,7 @@
 		(at 88.9 204.47 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12775,6 +12874,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 328.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f80fab91-d985-48e3-9254-58b0e5af0b3b")
 		)
@@ -13057,6 +13165,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 250.19 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62ffeb0c-1e3b-4c40-b225-60d2d2baa00d")
 		)
@@ -13283,7 +13400,7 @@
 		(at 358.14 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13492,7 +13609,7 @@
 		(at 175.26 102.87 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13879,6 +13996,15 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 147.32 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C8545 "
 			(at 147.32 209.55 0)
 			(effects
 				(font
@@ -14585,7 +14711,7 @@
 		(at 279.4 219.71 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14983,6 +15109,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8545 "
+			(at 340.36 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ebb36618-9999-4728-868d-1706bbf618aa")
 		)
@@ -15051,6 +15186,15 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 55.88 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C8545"
 			(at 55.88 58.42 0)
 			(effects
 				(font
